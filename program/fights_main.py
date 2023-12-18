@@ -1,5 +1,5 @@
 X_szama = Y_szama = W_szama = 0
-with open('../vers/count-x-y-w.txt') as f:
+with open('./vers/count-x-y-w.txt') as f:
     for line in f:
         for karakter in line.strip():
             if karakter == 'X':
