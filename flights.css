@@ -71,6 +71,47 @@ h2{
 
 
 /*
-Balátzs része
+Balázs része
 */
 
+body{
+    font-family: arial;
+}
+h1{
+    color: #333333;
+}
+.navbar{
+    color: #cccccc;
+}
+
+#TODO
+
+.button_hattere{
+    color: #3cb878;
+}
+
+a{
+    color: #3cb878;
+}
+
+.repulo_one{
+    color: #007335
+}
+
+.repulo_two{
+    color: #063711
+}
+
+.repulo_three{
+    color: #ffab40
+}
+
+.arany_kupa{
+    color: #fed346
+}
+.ezust_kupa{
+    color: #8d8d8d
+}
+.bronz_kupa{
+    color: #ce7402
+}
