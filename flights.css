@@ -4,6 +4,16 @@
     width: 800px;
 }
 
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    
+}
+
 .probalkozas {
     border: 2px solid;
     border-radius: 15px;
@@ -64,8 +74,3 @@
 Balátzs része
 */
 
-h1{
-    
-    font-weight: 600;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
