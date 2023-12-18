@@ -1,7 +1,7 @@
 /* Jani része
 */
-body {
-    
+.container {
+    width: 800px;
 }
 
 .probalkozas {
@@ -11,6 +11,8 @@ body {
     width: fit-content;
     height: auto;
     background-color: #39b979;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .ikonkep {
