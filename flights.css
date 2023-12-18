@@ -1,4 +1,21 @@
 /* Jani része
+*/
+body {
+    
+}
+
+.probalkozas {
+    border: 2px solid;
+    border-radius: 15px;
+    border-color: black;
+    width: fit-content;
+    height: auto;
+    background-color: #39b979;
+}
+
+.ikonkep {
+    width: 200px;
+}
 
 
 
@@ -27,14 +44,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+/*
+----------------------------------------------------------------
 */
