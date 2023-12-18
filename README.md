@@ -1,4 +1,4 @@
-# Flyibg Project
+# Flying Project
 
 ## Tagok:
 - Pántya Petra Virág
