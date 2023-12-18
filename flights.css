@@ -1,8 +1,5 @@
 /* Jani része
 */
-.container {
-    width: 800px;
-}
 
 h1{
     font-size: 35px;
@@ -29,6 +26,9 @@ h2{
     width: 200px;
 }
 
+img{
+    width: 200px;
+}
 
 
 
