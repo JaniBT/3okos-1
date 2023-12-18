@@ -1,0 +1,5 @@
+Önéletrajz oldalak:
+
+- Minden készítő adja hozza a saját önéletrajzát mint aloldal
+- Mindenki a saját tudása szerint egy egyszerű .txt file is elegendő
+- Ha valaki unatkozna nyugodtan élje ki a kreativitását :)

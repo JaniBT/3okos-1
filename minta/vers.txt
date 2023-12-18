@@ -1,0 +1,14 @@
+Vers:
+
+- A vers szövege több caesar.txt file-ban van lekódolva a Caesar-rejtjel segítségével. A kódolás az angol ABC-t használja és eltolást értékét másik feladatok alapján kapjuk meg. A többi feladat eredménye mind szám, feladatok eredményeinek összege a kódolás eltolásának értéke. A feltörési feladatok megoldásához bármilyen programozási nyelvet használhatnak a résztvevők.
+
+- Az eltolás összegét megadó feladatok:
+count-x-y-w.txt
+
+- Számoljuk össze (egy megírt program segítségével) hányszor szerepel a szövegben az X, Y és W karakter. Az eredmény: X_száma + Y_száma - W_száma
+after-z.txt
+
+- Keressük ki a file-ban a Z karakter után következő számjegy karatereket és az átlaguknak vegyük az egész részét.
+Fibonacci 50
+
+- Az ötvenedik fibonacci szám legmagasabb helyiértékű számjegye kivonva a legkisebb helyiértéküből. Ha a nulladik: 0, az első: 1.

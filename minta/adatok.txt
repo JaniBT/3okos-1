@@ -1,0 +1,11 @@
+Adatok elemzése:
+
+    A flights.csv file Excel segítségével megnyitható mint táblázat
+    A számolásokhoz szükséges adatok oszlopai:
+        carrier: A légitársaság kódja
+        carrier_name: A légitársaság neve
+        airport: A reptér kódja
+        airport_name: A reptér neve
+        arr_flights: Az érkező járatok száma
+        arr_del15: A késett járatok száma
+        arr_delay: A késések összesítve percben
