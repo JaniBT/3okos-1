@@ -1,0 +1,8 @@
+Késések oldal:
+
+- A Főoldal link vissza vezet a főoldalra
+- A Késések link ezen az oldalon marad
+- Az oldalon a 3 legkisebb átlagos késés idővel rendelkező társaság jelenik meg a flights.csv alapján, részletek lejjebb
+- A kupa ikonok 30 pixelesek
+- A fejléc a teljes oldal szélességét kitölti
+- Az oldal többi tartalma 800 pixel széles

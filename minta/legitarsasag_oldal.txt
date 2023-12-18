@@ -1,0 +1,10 @@
+Légitársaság oldal:
+
+- A Főoldal link vissza vezet a főoldalra
+- A Légitársaságok listája link vezet a Légitársaságok Listája oldalra
+- A Légitársaság link ezen at oldalon marad
+- A flights.csv file-ban található összes légitársaság legyen oldala
+- A légitársaság logóját az internetről szükséges kikeresni és az oldalon középre igazítva 300 pixeles méretben jelenjen meg
+- A szükséges adatok a flights.css fileból eredjenek, részletek lejjebb
+- A fejléc a teljes oldal szélességét kitölti
+- Az oldal többi tartalma 800 pixel széles

@@ -1,0 +1,8 @@
+Főoldal:
+
+- A 3 zöld doboz kattintható és másik aloldalakra vezet
+- A vers szövege kódolt fájlokból kiolvasható, részletek lejjebb
+- A készítők linkjei a saját elkészített önéletrajz oldalukra vezet
+- A fejléc a teljes oldal szélességét kitölti
+- Az oldal többi tartalma 800 pixel széles
+- A repülő ikonok 200 pixel szélesek

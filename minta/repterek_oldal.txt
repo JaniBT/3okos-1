@@ -1,0 +1,9 @@
+Repterek oldal
+
+- A Főoldal link vissza vezet a főoldalra
+- A Repterek link ezen az oldalon marad
+- Az oldalon a 3 legforgalmasabb reptér jelenik meg a flights.csv alapján, részletek lejjebb
+- A repterek koordinátáit az internetről szükséges kikeresni
+- A kupa ikonok 30 pixelesek
+- A fejléc a teljes oldal szélességét kitölti
+- Az oldal többi tartalma 800 pixel széles

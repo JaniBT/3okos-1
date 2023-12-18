@@ -1,0 +1,8 @@
+Légitársaságok Listája:
+
+- A Főoldal link vissza vezet a főoldalra
+- A Légitársaságok listája link ezen az oldalon marad
+- A flights.csv file-ban található összes légitársaság legyen a listán
+- Az egyes légitársaság linkek tovább vezetnek a légitársaság oldalakra
+- A fejléc a teljes oldal szélességét kitölti
+- Az oldal többi tartalma 800 pixel széles
