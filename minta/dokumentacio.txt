@@ -1,0 +1,3 @@
+Dokumentáció:
+
+- A projekthez készüljön dokumentáció markdown formátumban
