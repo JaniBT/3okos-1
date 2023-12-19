@@ -14,7 +14,7 @@ h1{
 }
 
 .cards{
-    border: 2px solid #333333;
+    border: 3px solid #333333;
     border-radius: 15px;
     background-color: #3cb878; 
 }
@@ -87,12 +87,20 @@ ul{
 
 .versike {
     color: #333333;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p{
+    padding: 5px;
+    font-size: 18px;
 }
 
 h5{
     text-align: center;
     font-weight: bold;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 
 h4{
@@ -101,13 +109,11 @@ h4{
     padding-bottom: 20px;
 }
 
-p{
-    font-size: large;
-    line-height: 5px;
-    text-align: center;
+pre{
+    width: 635px;
+    text-align: left;
 }
 
-pre{
-    width: 650px;
-    text-align: center;
+.cim{
+    font-size: 30px;
 }
