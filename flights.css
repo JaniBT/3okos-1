@@ -1,34 +1,11 @@
 /* Jani része
 */
 
-h1{
-    font-size: 35px;
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
-h2{
 
-}
 
-.probalkozas {
-    border: 2px solid;
-    border-radius: 15px;
-    border-color: black;
-    width: fit-content;
-    height: 230px;
-    background-color: #39b979;
-    color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
-.ikonkep {
-    width: 200px;
-}
 
-img{
-    width: 200px;
-}
 
 
 
@@ -74,44 +51,3 @@ img{
 Balázs része
 */
 
-body{
-    font-family: arial;
-}
-h1{
-    color: #333333;
-}
-.navbar{
-    color: #cccccc;
-}
-
-#TODO
-
-.button_hattere{
-    color: #3cb878;
-}
-
-a{
-    color: #3cb878;
-}
-
-.repulo_one{
-    color: #007335
-}
-
-.repulo_two{
-    color: #063711
-}
-
-.repulo_three{
-    color: #ffab40
-}
-
-.arany_kupa{
-    color: #fed346
-}
-.ezust_kupa{
-    color: #8d8d8d
-}
-.bronz_kupa{
-    color: #ce7402
-}
