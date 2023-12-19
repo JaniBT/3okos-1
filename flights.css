@@ -74,5 +74,9 @@ a:hover {
 
 .card-link:hover {
     text-decoration: none; /* Az aláhúzás továbbra sem változik */
-    color: inherit;
+    color: inherit; 
+}
+
+ul{
+    font-size: 20px;
 }
