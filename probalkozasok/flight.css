@@ -21,6 +21,7 @@ h1{
 
 .container{
     width: 800px;
+    padding: 0;
 }
 
 img{
@@ -82,3 +83,25 @@ ul{
     color: #333333;
     content: ">"
   }
+
+.versike {
+    color: #333333;
+}
+
+h5{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h4{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size: large;
+    line-height: 5px;
+    text-align: center;
+}
