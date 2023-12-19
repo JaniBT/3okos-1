@@ -65,3 +65,14 @@ a:hover {
     color: #3cb878;
     text-decoration: underline;
 }
+
+.card-link {
+    text-decoration: none; /* Távolítsuk el az aláhúzást */
+    color: inherit; /* Az örökölt színt használjuk */
+    cursor: pointer; /* Változtassuk az egér kurzor típusát gombra */
+}
+
+.card-link:hover {
+    text-decoration: none; /* Az aláhúzás továbbra sem változik */
+    color: inherit;
+}
