@@ -14,7 +14,7 @@ h1{
 }
 
 .cards{
-    border: 3px solid #333333;
+    border: 2px solid #333333;
     border-radius: 15px;
     background-color: #3cb878; 
 }
@@ -27,12 +27,53 @@ img{
     width: 200px;
 }
 
-ul {
+.Vers {
+    color: #333333;
+    font-weight: bold;
+}
+
+.list-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.pipe-list {
     list-style: none;
-  }
-  
-  li {
+    padding: 0;
+    margin: 0;
+}
+
+.pipe-list li {
     display: inline-block;
-    margin-right: 50px;
-  }
-  
+    margin-right: 10px;
+}
+
+.pipe-list li:last-child {
+    margin-right: 0;
+}
+
+a {
+    color: #3cb878;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #3cb878;
+    text-decoration: underline;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.card-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    font-size: 20px;
+}
