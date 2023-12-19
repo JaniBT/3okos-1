@@ -77,3 +77,8 @@ a:hover {
 ul{
     font-size: 20px;
 }
+
+.breadcrumb-item + .breadcrumb-item::before {
+    color: #333333;
+    content: ">"
+  }
