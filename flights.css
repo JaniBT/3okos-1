@@ -83,4 +83,9 @@ ul{
 
 .versike {
     color: #333333;
+    
+}
+
+pre {
+    white-space: pre-wrap;
 }

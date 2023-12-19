@@ -15,3 +15,6 @@ with open('./vers/caesar.txt', 'r', encoding='utf-8') as f:
                 vers += ch
 
 print(vers)
+
+with open('versike.txt', 'w', encoding='utf-8') as file:
+    print(vers, file=file)
