@@ -19,3 +19,7 @@ h1{
     background-color: #3cb878; 
     color: white;
 }
+
+.container{
+    max-width: 800px;
+}
