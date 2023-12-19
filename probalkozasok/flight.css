@@ -26,3 +26,13 @@ h1{
 img{
     width: 200px;
 }
+
+ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 50px;
+  }
+  
