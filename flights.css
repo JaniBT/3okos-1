@@ -1,53 +1,62 @@
 /* Jani része
 */
 
+body{
+    font-family: arial;
+}
 
+h1{
+    font-weight: 600;
+    font-family: arial;
+    letter-spacing: 1px;
+}
 
+.felso{
+    background-color: #cccccc;
+    border-bottom: 3px solid #333333;
+}
 
+.cards{
+    border: 2px solid #333333;
+    border-radius: 15px;
+    background-color: #3cb878; 
+}
 
+.container{
+    width: 800px;
+}
 
+img{
+    width: 200px;
+}
 
+.Vers {
+    color: #333333;
+    font-weight: bold;
+}
 
+.list-container {
+    width: 100%;
+    max-width: 600px; /* Válaszd meg a megfelelő maximális szélességet */
+    margin: 0 auto;
+}
 
+.pipe-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
+.pipe-list li {
+    display: inline-block;
+    margin-right: 10px; /* Válaszd meg a megfelelő margin értéket */
+}
 
+.pipe-list li:last-child {
+    margin-right: 0;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-----------------------------------------------------------------
-*/
-
-
-
-
-
-
-
-
-
-
-
-/*
-Balázs része
-*/
-
+a {
+    color: #3cb878;
+    text-decoration: underline;
+}
