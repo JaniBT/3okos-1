@@ -26,7 +26,7 @@ with open("legitarsasagokneve.txt", "w", encoding="utf-8") as file:
         print(sor["carrier_name"], file=file)
 
 legitarsasagok_adatai = []
-'''
+
 with open('./flights/flights.csv', 'r', encoding='utf-8') as f:
     for sor in f:
         adatok = sor.strip().split(',')
@@ -34,4 +34,3 @@ with open('./flights/flights.csv', 'r', encoding='utf-8') as f:
         legitarsasagok_adatai.append(legitars)
 
 # pprint.pprint(legitarsasagok_adatai)
-'''
