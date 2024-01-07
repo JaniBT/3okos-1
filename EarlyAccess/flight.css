@@ -8,6 +8,11 @@ h1{
     letter-spacing: 1px;
 }
 
+h2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .felso{
     background-color: #cccccc;
     border-bottom: 3px solid #333333;
@@ -97,6 +102,11 @@ p{
     font-size: 18px;
 }
 
+h6{
+    font-weight: bold;
+    margin-top: -14px;
+}
+
 h5{
     text-align: center;
     font-weight: bold;
@@ -120,4 +130,24 @@ pre{
 
 .kupa{
     width: 30px;
+}
+
+.legitarskep{
+    width: 37%;
+    height: 20%;
+}
+
+.logokep{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 90%;
+}
+
+.szamstat{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 14px;
+    margin-top: -12px;
 }
